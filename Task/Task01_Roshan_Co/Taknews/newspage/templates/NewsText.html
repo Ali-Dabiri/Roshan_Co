@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>headline news</h1>
+    <ul>
+      {% for x in News_Data %}
+        <h2> {{ x.News_Title}} </h2>
+        <p> {{ x.News_Content}} </p>
+        <i> {{ x.News_Tags}} </i>
+        <br>
+        <b> {{ x.News_Source}} </b>
+        <hr>
+      {% endfor %}
+    </ul>
+  </body>
+</html>
