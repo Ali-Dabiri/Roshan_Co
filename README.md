@@ -1,6 +1,5 @@
 # Roshan_Co
 
-            <div id="content"><div style="text-align: right; direction: rtl;"> 
 <li>1403/07/15</li>
 </div>
 <ul>
