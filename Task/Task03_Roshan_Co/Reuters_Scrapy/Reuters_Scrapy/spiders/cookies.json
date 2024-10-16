@@ -1,0 +1,131 @@
+[
+    {
+        "domain": ".reuters.com",
+        "expiry": 1729062706,
+        "httpOnly": false,
+        "name": "_gat",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".reuters.com",
+        "expiry": 1729149046,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.2.1806324833.1729062647"
+    },
+    {
+        "domain": ".reuters.com",
+        "expiry": 1729667442,
+        "httpOnly": false,
+        "name": "cleared-onetrust-cookies",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "Thu, 17 Feb 2022 19:17:07 GMT"
+    },
+    {
+        "domain": ".reuters.com",
+        "expiry": 1729667442,
+        "httpOnly": false,
+        "name": "RT",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "\"z=1&dm=reuters.com&si=2ysp13bwbzs&ss=m2bj94z1&sl=0&tt=0\""
+    },
+    {
+        "domain": "www.reuters.com",
+        "httpOnly": false,
+        "name": "reuters-geo",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "{\"country\":\"-\", \"region\":\"-\"}"
+    },
+    {
+        "domain": ".reuters.com",
+        "expiry": 1763622646,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.2.1011020899.1729062646"
+    },
+    {
+        "domain": ".reuters.com",
+        "expiry": 1760598646,
+        "httpOnly": false,
+        "name": "ajs_anonymous_id",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "f2c1672a-8b1f-4b63-9d90-769e35cf3286"
+    },
+    {
+        "domain": ".reuters.com",
+        "expiry": 1760598643,
+        "httpOnly": false,
+        "name": "datadome",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "CMTr5oVIS5XVq2LCK5Y4A5ggGSipXqUaJj0RJdLybin1BvJ4E9yBV0wVDnMGXaYKjQVL5qqcvKx9jC6BErGnnZJ6sPTol8F73s7qCXAACqPXSEnqdeeMlRq138SRmtiA"
+    },
+    {
+        "domain": ".reuters.com",
+        "expiry": 1760598644,
+        "httpOnly": false,
+        "name": "OptanonConsent",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "isGpcEnabled=0&datestamp=Wed+Oct+16+2024+10%3A40%3A44+GMT%2B0330+(Iran+Standard+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d2d59dd2-d20b-40ce-b194-255f6cba72be&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.reuters.com%2Fsite-search%2F%3Fquery%3DCommodity+Gold&groups=1%3A1%2C2%3A0%2C3%3A0%2C4%3A0%2CV2STACK42%3A0&genVendors=V8%3A1%2CV15%3A0%2CV11%3A0%2CV26%3A1%2CV27%3A0%2CV23%3A0%2CV28%3A0%2CV29%3A0%2CV25%3A0%2CV24%3A0%2C"
+    },
+    {
+        "domain": "www.reuters.com",
+        "expiry": 1760598642,
+        "httpOnly": false,
+        "name": "usprivacy",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1---"
+    },
+    {
+        "domain": ".reuters.com",
+        "expiry": 1763622646,
+        "httpOnly": false,
+        "name": "_ga_WBSR7WLTGD",
+        "path": "/site-search",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS1.1.1729062646.1.0.1729062646.60.0.0"
+    },
+    {
+        "domain": ".reuters.com",
+        "expiry": 1763190643,
+        "httpOnly": false,
+        "name": "_awl",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "2.1729062643.5-eab178674a76ff4921e7e389ce4646bc-6763652d6575726f70652d7765737431-0"
+    },
+    {
+        "domain": ".reuters.com",
+        "expiry": 1763622646,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/site-search",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.1.1011020899.1729062646"
+    }
+]
